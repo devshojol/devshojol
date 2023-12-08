@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://raw.githubusercontent.com/SHOJOL-ISLAM-77/SHOJOL-ISLAM-77/main/git%20hub%20banner.gif)
+![I am GitHub Readme Generator's creator](https://raw.githubusercontent.com/SHOJOL-ISLAM-77/SHOJOL-ISLAM-77/main/Images/banner.webp)
 
 
 ## GitHub Stats
