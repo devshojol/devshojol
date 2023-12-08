@@ -1,8 +1,8 @@
 ![I am GitHub Readme Generator's creator](https://raw.githubusercontent.com/SHOJOL-ISLAM-77/SHOJOL-ISLAM-77/main/Images/banner.webp)
 
 
-## GitHub Stats
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)](https://github.com/YourUsername)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SHOJOL-ISLAM-77&theme=buefy)
 
 ## Let's Connect
 - [Twitter](https://twitter.com/YourTwitter)
