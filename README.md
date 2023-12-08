@@ -44,8 +44,14 @@
 
 ## :eyes: Current overview
 
+- 🔭 I’m currently working on React
+- 🌱 I’m currently learning Express JS
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking Job or Intern 
+- ⚡ Fun fact: I love codding
+
 <div align="left">
-<a href="https://app.daily.dev/mir"><img align="right" src="https://github.com/mir-hussain/mir-hussain/blob/main/devcard.svg" width="200" alt="Mir Hussain's Dev Card"/></a>
+<a href="https://app.daily.dev/mir"><img align="right" src="https://github.com/mir-hussain/mir-hussain/blob/main/devcard.svg" width="200" alt="SHOJOL ISLAM's Dev Card"/></a>
 </div>
 
 
