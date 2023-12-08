@@ -2,7 +2,7 @@
 
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SHOJOL-ISLAM-77&theme=buefy)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SHOJOL-ISLAM-77&theme=buefy)
 
 ## Let's Connect
 - [Twitter](https://twitter.com/YourTwitter)
