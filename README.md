@@ -1,16 +1,19 @@
-### Hi there 👋
+![I am GitHub Readme Generator's creator](https://raw.githubusercontent.com/SHOJOL-ISLAM-77/SHOJOL-ISLAM-77/main/git%20hub%20banner.gif)
 
-<!--
-**SHOJOL-ISLAM-77/SHOJOL-ISLAM-77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## GitHub Stats
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)](https://github.com/YourUsername)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+## Let's Connect
+- [Twitter](https://twitter.com/YourTwitter)
+- [LinkedIn](https://www.linkedin.com/in/YourLinkedIn)
+- [Personal Website/Blog](https://yourwebsite.com)
+
+
+## Current overview :
+
+- 🔭 I’m currently working on React
+- 🌱 I’m currently learning Express JS
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤔 I’m looking Job or Intern 
+- ⚡ Fun fact: I love codding
