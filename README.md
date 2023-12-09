@@ -1,5 +1,5 @@
 <a href="https://www.facebook.com/mirhussainmurtaza/">
-<img src="https://raw.githubusercontent.com/SHOJOL-ISLAM-77/SHOJOL-ISLAM-77/main/Images/banner.webp" />
+<img src="https://github.com/SHOJOL-ISLAM-77/SHOJOL-ISLAM-77/blob/main/Images/Screenshot%202023-12-09%20145547.png?raw=true" />
 </a>
 
 ## Current Stats
