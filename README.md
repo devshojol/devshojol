@@ -9,6 +9,56 @@
 <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=SHOJOL-ISLAM-77&theme=react&hide_border=true&border_radius=10&card_width=600&border=00000023&background=45%2C0C399F%2C2F54C5)](https://git.io/streak-stats" />
 </p>
 
+## My resent projects :
+
+1. On Blood For All
+
+   This application facilitates blood donation activities by connecting donors with recipients. It's built using the MERN stack (MongoDB, Express.js, React, Node.js) and implements role-based access control for Admins, Donors, and Volunteers.
+
+   - main features:
+
+     1. **Role-Based Access Control**: Admins have comprehensive access, while Donors and Volunteers have specific permissions.
+   
+     2. **Donation Request Management**: Users can create, track, and edit donation requests.
+   
+     3. **User Authentication & Registration**: Secure registration and login system with JWT.
+   
+     4. **Content Management System**: Admins can manage blog content.
+   
+     5. **Responsive Dashboard**: User-centric interface for easy navigation.
+   
+   - **project live link:** [Link]((https://one-blood-for-all.web.app)) 
+
+
+2. Service swap hub
+
+   - main features :
+     
+       1. **Role-Based Access Control**: Admins have comprehensive access, while Donors and Volunteers have specific permissions.
+      
+       2. **Donation Request Management**: Users can create, track, and edit donation requests.
+      
+       3. **User Authentication & Registration**: Secure registration and login system with JWT.
+      
+       4. **Content Management System**: Admins can manage blog content.
+      
+       5. **Responsive Dashboard**: User-centric interface for easy navigation.
+
+3. My Soft
+
+   - main features :
+
+     
+       1. **Role-Based Access Control**: Admins have comprehensive access, while Donors and Volunteers have specific permissions.
+      
+       2. **Donation Request Management**: Users can create, track, and edit donation requests.
+      
+       3. **User Authentication & Registration**: Secure registration and login system with JWT.
+      
+       4. **Content Management System**: Admins can manage blog content.
+      
+       5. **Responsive Dashboard**: User-centric interface for easy navigation.
+
 ## Technologies that I know
 
 <br>
@@ -40,7 +90,6 @@
 </p>
 
 <br />
-
 
 ## Profile Summary
 
