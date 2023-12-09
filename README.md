@@ -48,10 +48,3 @@
 <img  align="right"  style="width: 30%;" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SHOJOL-ISLAM-77&theme=discord_old_blurple"/>
 </p>
 
-## Current overview
-
-- 🔭 I’m currently working on React
-- 🌱 I’m currently learning Express JS
-- 👯 I’m looking a job or Intern
-- 🤔 I’m looking Job or Intern
-- ⚡ Fun fact: I love codding
