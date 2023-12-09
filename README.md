@@ -60,7 +60,7 @@
 
 ## My recent projects 
 
-1. On Blood For All
+1. ***On Blood For All***
 
    This application facilitates blood donation activities by connecting donors with recipients. It's built using the MERN stack (MongoDB, Express.js, React, Node.js) and implements role-based access control for Admins, Donors, and Volunteers.
 
@@ -79,7 +79,7 @@
    - **project live link:** [Link](https://one-blood-for-all.web.app)
 
 
-2. Service swap hub
+2. ***Service swap hub***
 
     Welcome to our Offline Service Sharing Web Application! This platform is designed to connect service providers and users, facilitating service discovery, booking, and management.
 
@@ -101,7 +101,7 @@
 
       - **project live link:** [Link](https://serviceswaphub.web.app/)
 
-3. My Soft
+3. ***My Soft***
 
    - main features :
 
