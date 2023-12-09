@@ -44,14 +44,8 @@
 ## Profile Summary
 
 <div>
-
-<p align="left">
-<img  width="70" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SHOJOL-ISLAM-77&theme=discord_old_blurple"/>
-</p>
-
-<p align="center" >
-<img  width="30" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SHOJOL-ISLAM-77&theme=discord_old_blurple"/>
-</p>
+<img align="left"  style="width: 70%;" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SHOJOL-ISLAM-77&theme=discord_old_blurple"/>
+<img  align="right"  style="width: 30%;" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SHOJOL-ISLAM-77&theme=discord_old_blurple"/>
 </div>
 
 ## Current overview
