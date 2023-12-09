@@ -31,7 +31,7 @@
 <br />
 
 <p align="center">
-  <a href="www.linkedin.com/in/shojol-shojib-ss" style="border: 5px solid black;">
+  <a href="https://www.linkedin.com/in/shojol-shojib-ss" style="border: 5px solid black;">
     <img height="60" src="https://github.com/SHOJOL-ISLAM-77/SHOJOL-ISLAM-77/blob/main/Images/Screenshot%202023-12-09%20103927.png?raw=true" alt="LinkedIn">
   </a>
   <a href="https://www.facebook.com/ShojolIslamShojib" style="border: 5px solid black;">
@@ -45,8 +45,8 @@
 ## Profile Summary
 
 <p>
-<img style="width: 70%; display: inline;" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SHOJOL-ISLAM-77&theme=discord_old_blurple"/>
-<img  style="width: 30%; display: inline;" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SHOJOL-ISLAM-77&theme=discord_old_blurple"/>
+<img style="width: 69%; display: inline;" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SHOJOL-ISLAM-77&theme=discord_old_blurple"/>
+<img  style="width: 29%; display: inline;" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SHOJOL-ISLAM-77&theme=discord_old_blurple"/>
 </p>
 <br/>
 
