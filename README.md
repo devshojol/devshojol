@@ -58,7 +58,7 @@
 - ⚡ Fun fact: I love coding
 
 
-## My recent projects :
+## My recent projects 
 
 1. On Blood For All
 
