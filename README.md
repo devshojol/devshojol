@@ -9,7 +9,7 @@
 <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=SHOJOL-ISLAM-77&theme=react&hide_border=true&border_radius=10&card_width=600&border=00000023&background=45%2C0C399F%2C2F54C5)](https://git.io/streak-stats" />
 </p>
 
-## My resent projects :
+## My recent projects :
 
 1. On Blood For All
 
@@ -27,37 +27,48 @@
    
      5. **Responsive Dashboard**: User-centric interface for easy navigation.
    
-   - **project live link:** [Link]((https://one-blood-for-all.web.app)) 
+   - **project live link:** [Link](https://one-blood-for-all.web.app)
 
 
 2. Service swap hub
 
+    Welcome to our Offline Service Sharing Web Application! This platform is designed to connect service providers and users, facilitating service discovery, booking, and management.
+
    - main features :
-     
-       1. **Role-Based Access Control**: Admins have comprehensive access, while Donors and Volunteers have specific permissions.
-      
-       2. **Donation Request Management**: Users can create, track, and edit donation requests.
-      
-       3. **User Authentication & Registration**: Secure registration and login system with JWT.
-      
-       4. **Content Management System**: Admins can manage blog content.
-      
-       5. **Responsive Dashboard**: User-centric interface for easy navigation.
+      1. Explore Services
+          - **Home Page:** Users can browse available services with details about service providers.
+          - **All Services Page:** Displays all listed services for easy exploration.
+
+     1. Booking Services
+          - **Service Detail Page:** Users can book services after reviewing detailed information.
+          - **My Schedule Page:** Displays all booked services for user reference.
+
+     2. Service Management
+        - **Add a Service Page:** Allows users to add their own services to the platform.
+        - **Manage Services Page:** Users can delete or update their listed services.
+
+     3. Service Status Updates
+        - **Service Owner Control:** Service providers can update the status of their services when booked by others.
+
+      - **project live link:** [Link](https://serviceswaphub.web.app/)
 
 3. My Soft
 
    - main features :
 
      
-       1. **Role-Based Access Control**: Admins have comprehensive access, while Donors and Volunteers have specific permissions.
+       1. **Add Product Page**: A private route facilitating users to add new products with essential details like image, name, brand, type, price, and more.
       
-       2. **Donation Request Management**: Users can create, track, and edit donation requests.
+       2. **Cart Management**: Private route allowing users to view and delete added products from their cart.
       
-       3. **User Authentication & Registration**: Secure registration and login system with JWT.
+       3. **Product Update Page**: A private route enabling users to update product information.
       
-       4. **Content Management System**: Admins can manage blog content.
+       4. **Authentication**: Implements email and password-based registration and login with error handling.
       
-       5. **Responsive Dashboard**: User-centric interface for easy navigation.
+       5. **Additional Login Option**: Offers an extra login choice (Facebook, GitHub, Google, etc.).
+
+      - **project live link:** [Link](https://mysoft-8e086.firebaseapp.com/)
+
 
 ## Technologies that I know
 
@@ -105,3 +116,4 @@
 - 🌱 I’m currently learning Express JS
 - 🤔 I’m looking for a Job or an Intern
 - ⚡ Fun fact: I love codding
+
