@@ -6,8 +6,9 @@
 
 <br />
 <p align="center">
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SHOJOL-ISLAM-77&theme=react&hide_border=true&border_radius=10&card_width=600&border=00000023&background=45%2C0C399F%2C2F54C5)](https://git.io/streak-stats)
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=SHOJOL-ISLAM-77&theme=react&hide_border=true&border_radius=10&card_width=600&border=00000023&background=45%2C0C399F%2C2F54C5)](https://git.io/streak-stats" />
 </p>
+
 
 ## :mailbox: Find me on
 
