@@ -6,10 +6,10 @@
 
 <br />
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=SHOJOL-ISLAM-77&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SHOJOL-ISLAM-77&theme=react&hide_border=true&border_radius=10&card_width=600&border=00000023&background=45%2C0C399F%2C2F54C5)](https://git.io/streak-stats)
 </p>
 
-## :mailbox: Reach me out
+## :mailbox: Find me on
 
 <br />
 
