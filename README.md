@@ -43,11 +43,16 @@
 
 ## Profile Summary
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SHOJOL-ISLAM-77&theme=discord_old_blurple)
+<div>
+
+<p align="left">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SHOJOL-ISLAM-77&theme=discord_old_blurple"/>
+</p>
 
 <p align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SHOJOL-ISLAM-77&theme=discord_old_blurple"/>
 </p>
+</div>
 
 ## Current overview
 
