@@ -1,4 +1,4 @@
-<a href="https://www.facebook.com/mirhussainmurtaza/">
+<a href="https://www.facebook.com/ShojolIslamShojib">
 <img src="https://github.com/SHOJOL-ISLAM-77/SHOJOL-ISLAM-77/blob/main/Images/Screenshot%202023-12-09%20145547.png?raw=true" />
 </a>
 
@@ -54,5 +54,5 @@
 
 - 🔭 I’m currently working on React
 - 🌱 I’m currently learning Express JS
-- 🤔 I’m looking a Job or Intern
+- 🤔 I’m looking for a Job or an Intern
 - ⚡ Fun fact: I love codding
