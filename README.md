@@ -50,6 +50,12 @@
 </p>
 <br/>
 
+<p>
+<img style="width: 69%; display: inline;" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SHOJOL-ISLAM-77&theme=2077&utcOffset=8"/>
+<img  style="width: 29%; display: inline;" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SHOJOL-ISLAM-77&theme=nord_dark"/>
+</p>
+<br/>
+
 ## Current overview
 
 - 🔭 I’m currently working on React
