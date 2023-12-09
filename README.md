@@ -30,7 +30,6 @@
 ## Find me on
 
 <br />
-
 <p>
   <a href="https://www.linkedin.com/in/shojol-shojib-ss" style="border: 5px solid black;">
     <img align="center" height="60" src="https://github.com/SHOJOL-ISLAM-77/SHOJOL-ISLAM-77/blob/main/Images/Screenshot%202023-12-09%20103927.png?raw=true" alt="LinkedIn">
@@ -51,7 +50,7 @@
 <br/>
 
 <p>
-<img style="width: 69%; display: inline;" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SHOJOL-ISLAM-77&theme=2077&utcOffset=8"/></p>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SHOJOL-ISLAM-77&theme=2077&utcOffset=8"/></p>
 <br/>
 
 ## Current overview
