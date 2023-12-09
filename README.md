@@ -31,12 +31,12 @@
 
 <br />
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/shojol-shojib-ss" style="border: 5px solid black;">
-    <img height="60" src="https://github.com/SHOJOL-ISLAM-77/SHOJOL-ISLAM-77/blob/main/Images/Screenshot%202023-12-09%20103927.png?raw=true" alt="LinkedIn">
+    <img align="center" height="60" src="https://github.com/SHOJOL-ISLAM-77/SHOJOL-ISLAM-77/blob/main/Images/Screenshot%202023-12-09%20103927.png?raw=true" alt="LinkedIn">
   </a>
   <a href="https://www.facebook.com/ShojolIslamShojib" style="border: 5px solid black;">
-    <img height="60" src="https://github.com/SHOJOL-ISLAM-77/SHOJOL-ISLAM-77/blob/main/Images/facebook.png?raw=true" alt="Facebook">
+    <img align:center height="60" src="https://github.com/SHOJOL-ISLAM-77/SHOJOL-ISLAM-77/blob/main/Images/facebook.png?raw=true" alt="Facebook">
   </a>
 </p>
 
@@ -51,9 +51,7 @@
 <br/>
 
 <p>
-<img style="width: 69%; height:350px; display: inline;" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SHOJOL-ISLAM-77&theme=2077&utcOffset=8"/>
-  <img  style="width: 29%; display: inline;" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SHOJOL-ISLAM-77&theme=discord_old_blurple"/>
-</p>
+<img style="width: 69%; display: inline;" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SHOJOL-ISLAM-77&theme=2077&utcOffset=8"/></p>
 <br/>
 
 ## Current overview
