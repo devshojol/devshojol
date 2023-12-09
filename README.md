@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/SHOJOL-ISLAM-77/SHOJOL-ISLAM-77/main/Images/banner.webp" />
 </a>
 
-## :chart_with_upwards_trend: Current Stats
+##  Current Stats
 
 <br />
 <p align="center">
@@ -10,11 +10,11 @@
 </p>
 
 
-## :mailbox: Find me on
+##  Find me on
 
 <br />
 
-[<p align="center"><img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/mirhussainmurtaza/)[<img height="75" src="https://github.com/SHOJOL-ISLAM-77/SHOJOL-ISLAM-77/blob/main/Images/facebook.png?raw=true">](https://www.facebook.com/mirhussainmurtaza)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png"> </p>](https://twitter.com/_mir_hussain_)
+[<p align="center"><img height="60" src="https://github.com/SHOJOL-ISLAM-77/SHOJOL-ISLAM-77/blob/main/Images/Screenshot%202023-12-09%20103927.png?raw=true">](https://www.linkedin.com/in/mirhussainmurtaza/)[<img height="60" src="https://github.com/SHOJOL-ISLAM-77/SHOJOL-ISLAM-77/blob/main/Images/facebook.png?raw=true">](https://www.facebook.com/mirhussainmurtaza)[<img height="60" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png"> </p>](https://twitter.com/_mir_hussain_)
 
 <br />
 
