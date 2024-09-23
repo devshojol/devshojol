@@ -25,6 +25,7 @@
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/redux.png"/>
 </p><br/>
 
 ## Find me on
@@ -56,6 +57,6 @@
 ## Current overview
 
 - 🔭 I’m currently working on React
-- 🌱 I’m currently learning Express JS
-- 🤔 I’m looking for a Job or an Intern
+- 🌱 I’m currently learning WORDPRESS
+- 🤔 I’m working a job in Webappick.com
 - ⚡ Fun fact: I love coding
