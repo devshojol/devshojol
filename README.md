@@ -2,13 +2,6 @@
 <img src="https://github.com/SHOJOL-ISLAM-77/SHOJOL-ISLAM-77/blob/main/Images/Screenshot%202023-12-09%20145547.png?raw=true" />
 </a>
 
-## Current Stats
-
-<br />
-<p align="center">
-<img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=SHOJOL-ISLAM-77&theme=react&hide_border=true&border_radius=10&card_width=600&border=00000023&background=45%2C0C399F%2C2F54C5)](https://git.io/streak-stats" />
-</p>
-
 
 ## Technologies that I know
 
