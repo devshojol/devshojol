@@ -19,6 +19,7 @@
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/redux.png"/>
+<img src="[https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/redux.png](https://web.programming-hero.com/home/_next/static/media/Mongoose.js.db4c7187.svg)"/>
 </p><br/>
 
 ## Find me on
@@ -50,6 +51,6 @@
 ## Current overview
 
 - 🔭 I’m currently working on React
-- 🌱 I’m currently learning WORDPRESS
-- 🤔 I’m working a job in Webappick.com
+- 🌱 I’m currently learning React Native
+- 🤔 I’m working a job at Webappick.com
 - ⚡ Fun fact: I love coding
