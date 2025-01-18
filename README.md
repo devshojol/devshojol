@@ -16,7 +16,7 @@
 <p align="center">
 <img src="./Images/node.png/"/>
 <img src="./Images/express.png"/>
-<img src="./Images/mongo.png"/>
+<img src="./Images/mongodb.png"/>
 <img src="./Images/firebase.png"/>
 </p>
 
