@@ -43,7 +43,7 @@
 </p>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SHOJOL-ISLAM-77&theme=2077&utcOffset=8" alt="GitHub Productive Time" style="width: 100%;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SHOJOL-ISLAM-77&theme=2077&utcOffset=8" alt="GitHub Productive Time" style="width: 100%; height:400px" />
 </p>
 
 ---
