@@ -19,7 +19,7 @@
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/redux.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/redux.png](https://web.programming-hero.com/home/_next/static/media/Mongoose.js.db4c7187.svg)"/>
+<img src="https://web.programming-hero.com/home/_next/static/media/Mongoose.js.db4c7187.svg"/>
 </p><br/>
 
 ## Find me on
