@@ -6,18 +6,18 @@
 ## 💻 Technologies I Work With  
 
 <p align="center">
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/firebase.png"/>
+<img src="./Images/HTML.png"/>
+<img src="./Images/css.png"/>
+<img src="./Images/JavaScript.png"/>
+<img src="./Images/react.png"/>
+<img src="./Images/redux.png"/>
+<img src="./Images/tailwind.png"/>
 </p>
 <p align="center">
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/redux.png"/>
+<img src="./Images/node.png/"/>
+<img src="./Images/express.png"/>
+<img src="./Images/mongo.png"/>
+<img src="./Images/firebase.png"/>
 </p>
 
 ---
@@ -26,10 +26,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shojol-s/" target="_blank">
-    <img src="https://raw.githubusercontent.com/SHOJOL-ISLAM-77/SHOJOL-ISLAM-77/main/Images/Screenshot%202023-12-09%20103927.png" alt="LinkedIn" height="60" />
+    <img src="./Images//linkedIn.png" alt="LinkedIn" height="60" />
   </a>
   <a href="https://www.facebook.com/ShojolIslamShojib" target="_blank">
-    <img src="https://raw.githubusercontent.com/SHOJOL-ISLAM-77/SHOJOL-ISLAM-77/main/Images/facebook.png" alt="Facebook" height="60" />
+    <img src="./Images/facebook.png" alt="Facebook" height="60" />
   </a>
 </p>
 
