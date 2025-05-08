@@ -38,12 +38,12 @@
 ## 📊 GitHub Profile Summary  
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SHOJOL-ISLAM-77&theme=discord_old_blurple" alt="GitHub Profile Details" style="width: 69%;" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SHOJOL-ISLAM-77&theme=nord_dark" alt="GitHub Stats" style="width: 29%;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devshojol&theme=discord_old_blurple" alt="GitHub Profile Details" style="width: 69%;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=devshojol&theme=nord_dark" alt="GitHub Stats" style="width: 29%;" />
 </p>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SHOJOL-ISLAM-77&theme=2077&utcOffset=8" alt="GitHub Productive Time" style="width: 100%; height:400px" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devshojol&theme=2077&utcOffset=8" alt="GitHub Productive Time" style="width: 100%; height:400px" />
 </p>
 
 ---
