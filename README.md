@@ -25,7 +25,7 @@
 ## 🌐 Connect with Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shojol-s/" target="_blank">
+  <a href="https://www.linkedin.com/in/devshojol" target="_blank">
     <img src="./Images//linkedIn.png" alt="LinkedIn" height="60" />
   </a>
   <a href="https://www.facebook.com/ShojolIslamShojib" target="_blank">
