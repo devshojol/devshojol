@@ -53,6 +53,5 @@
 - 🔭 Currently working on **React**
 - 🌱 Learning **React Native**
 - 💼 Employed at **[Webappick](https://webappick.com/)**
-- ⚡ Fun fact: I love coding and exploring new technologies!
 
 ---
